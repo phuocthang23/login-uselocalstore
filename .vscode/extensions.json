@@ -1,0 +1,7 @@
+{
+    "recommendations": [
+        "pkief.material-icon-theme",
+        "formulahendry.auto-close-tag",
+        "esbenp.prettier-vscode"
+    ]
+}
